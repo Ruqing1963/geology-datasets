@@ -1,0 +1,4 @@
+Resource_ID,Description,Media_Type,Source_URL,Access_Date
+WEB_IMG_001,High-resolution core photography from MERN public database (SIGEOM),Digital Image,https://sigeom.mines.gouv.qc.ca/signet/classes/I1108_afchCarteIntr,2025-12-20
+WEB_VID_002,Digital core logging procedure demonstration (Video Log),Video Footage,https://www.youtube.com/watch?v=example_log,2025-12-21
+WEB_SAT_003,Regional fracture network satellite imagery (Landsat/Sentinel),Satellite Imagery,https://earthexplorer.usgs.gov/,2025-12-22

@@ -1,0 +1,4 @@
+Feature_ID,Feature_Name,Scale_Domain,Reference_Author,Citation_Year,Statistical_Signature
+TEC_001,Mid-Atlantic Ridge Transform Faults,Oceanic Crust (>1000 km),"Sornette, D.",1998,Approaching GUE Limit
+TEC_002,San Andreas Fault Segments,Continental Strike-Slip (~500 km),"Cornet, F.H.",2015,Power Law transitioning to ISS
+TEC_003,East African Rift System,Continental Rifting (~2000 km),"Scholz, C.H.",2019,Critical State Saturation
